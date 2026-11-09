@@ -1,5 +1,5 @@
 # Git-aprendizaje
 
 
-##Descripcion
+## Descripcion
 Aprendiendo a usar git
